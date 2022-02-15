@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Instructions for the revision of Project 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-413-error-correcting-codes-laboratory-spring-2004/04937c55733d3109cb9cb55031e035e1_proj1rev.pdf
+file: /media/courses/18-413-error-correcting-codes-laboratory-spring-2004/04937c55733d3109cb9cb55031e035e1_proj1rev.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: proj1rev.pdf
 uid: 04937c55-733d-3109-cb9c-b55031e035e1
