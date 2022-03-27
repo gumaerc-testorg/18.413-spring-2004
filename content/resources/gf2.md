@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: a045bc83-6bf3-4f8f-d922-73fb97328a80
 resourcetype: Document
 title: gf2.pdf
 uid: de267030-200c-99e3-0b6f-7b2688cb616e

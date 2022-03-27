@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a071807e-5528-4ae4-6eac-8a2fbe0aa69f
 resourcetype: Document
 title: final_stransky.pdf
 uid: 931a6b19-b4df-bd33-2ed4-0176a47ccac5

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: a045bc83-6bf3-4f8f-d922-73fb97328a80
 resourcetype: Document
 title: speedtests.pdf
 uid: 277b9f37-8355-b5ed-2f8a-92ec20b43d84

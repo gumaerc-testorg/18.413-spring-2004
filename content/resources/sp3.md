@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a071807e-5528-4ae4-6eac-8a2fbe0aa69f
 resourcetype: Document
 title: sp3.pdf
 uid: 0088de92-15ec-bff8-2bb4-af9959698a7d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: a045bc83-6bf3-4f8f-d922-73fb97328a80
 resourcetype: Document
 title: rand.pdf
 uid: dcb27758-7f86-4843-9f76-4faacffaa6fb

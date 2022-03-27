@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: a045bc83-6bf3-4f8f-d922-73fb97328a80
 resourcetype: Document
 title: debugging.pdf
 uid: 3b4bd7e5-3323-eb66-2fe5-455f71f4457a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: a045bc83-6bf3-4f8f-d922-73fb97328a80
 resourcetype: Document
 title: javamatlab.pdf
 uid: eab1a8c9-9e1a-8f32-67b4-59eb69373126
