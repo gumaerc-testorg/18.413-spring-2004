@@ -5,6 +5,7 @@ file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/2eb3152fd9be
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect9.pdf
 uid: 2eb3152f-d9be-f930-7e97-d393de620d1b
 ---
 Outline of Lecture 9.
-

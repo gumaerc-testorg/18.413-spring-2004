@@ -6,6 +6,7 @@ file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/8897d87c424d
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final_yang.pdf
 uid: 8897d87c-424d-cebc-1594-691961c6d62d
 ---
 Sample of a student's final project. This final project report courtesy of Yang Yang.
-

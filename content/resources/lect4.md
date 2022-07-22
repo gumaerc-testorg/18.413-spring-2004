@@ -5,6 +5,7 @@ file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/d4bd15aad23f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect4.pdf
 uid: d4bd15aa-d23f-afa8-1c3a-fa8fc5ed7534
 ---
 Lecture 4.
-

@@ -5,6 +5,7 @@ file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/04937c55733d
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: proj1rev.pdf
 uid: 04937c55-733d-3109-cb9c-b55031e035e1
 ---
 Instructions for the revision of Project 1.
-

@@ -5,6 +5,7 @@ file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/384487414475
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect12.pdf
 uid: 38448741-4475-3d99-a3f6-9907f822ee58
 ---
 Outline of Lecture 12.
-

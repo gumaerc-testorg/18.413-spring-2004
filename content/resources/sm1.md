@@ -9,6 +9,7 @@ file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/809177282a6a
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: 80917728-2a6a-9661-72b1-b2535dcfee07
 ---
 Instructions and guidelines for Small Project 1. In this project,we will compute the capacity of the meta ?channel obtained by concatenating a
 repetition encoder with the Binary Symmetric Channel with crossover probability p (BSC p ).
-

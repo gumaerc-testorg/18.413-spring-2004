@@ -5,6 +5,7 @@ file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/325d41fcaabe
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tomatlab.pdf
 uid: 325d41fc-aabe-4cdb-887d-b3e8310a8ffc
 ---
 This tutorial contains information on moving data to MATLAB.
-

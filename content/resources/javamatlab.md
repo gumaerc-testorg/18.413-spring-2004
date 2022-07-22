@@ -5,6 +5,7 @@ file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/eab1a8c99e1a
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: javamatlab.pdf
 uid: eab1a8c9-9e1a-8f32-67b4-59eb69373126
 ---
 This tutorial contains information on getting MATLAB to work with Java.
-
