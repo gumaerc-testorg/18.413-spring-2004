@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c2566f19-17cc-4273-5d12-16a28adb0fee
 ---
@@ -36,7 +40,7 @@ Lecture #1
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec1))
+({{% resource_link c45cc9c6-660f-36ee-3417-dff56195b0d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +58,7 @@ Capacity and Mutual Information
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect2))
+({{% resource_link 8d27b48c-99dd-3ace-95fc-045bc5a583e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +78,7 @@ Prior, Extrinsic, Posterior and Intrinsic Probabilities
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect3))
+({{% resource_link 2e598567-b712-a049-3fd5-a634b3d1de2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +102,7 @@ Example: Parity
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect4))
+({{% resource_link d4bd15aa-d23f-afa8-1c3a-fa8fc5ed7534 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +133,7 @@ Plotting in MATLAB®
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect5))
+({{% resource_link bae1bf9c-845b-1bc0-8d59-50233d63a502 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +157,7 @@ Trees
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect6))
+({{% resource_link 41ad43fa-5854-3246-660b-b36a3b5bc28c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +175,7 @@ Simplifying Probability Computation
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect7))
+({{% resource_link cf25d71d-c2e7-d59d-d6dc-3ea1f67e62ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,7 +195,7 @@ Codes and Matrices
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect8))
+({{% resource_link 87d91aeb-0bc2-130f-994d-239f7d742afb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +215,7 @@ SNR, dB
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect9))
+({{% resource_link 2eb3152f-d9be-f930-7e97-d393de620d1b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +249,7 @@ Small Project 2
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect11))
+({{% resource_link fdd3ad08-6414-fec8-78d5-ae14c33e5b08 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +267,7 @@ Representing Probabilities, Parity Nodes
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect12))
+({{% resource_link 38448741-4475-3d99-a3f6-9907f822ee58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +291,7 @@ Capacity Estimation, Revisited
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect13))
+({{% resource_link 425e0d77-e261-afa2-ef2f-ec98d05c27d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +311,7 @@ Decoding Convolutional Codes
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect14))
+({{% resource_link 15bea984-e713-0077-a7e6-b9e7248f7f7d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -329,7 +333,7 @@ Exit Charts
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect15))
+({{% resource_link 6c41e7d0-fc27-e1ca-ec60-82d23b09afdd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,7 +351,7 @@ Final Projects
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect16))
+({{% resource_link 5e058d0b-6ac3-cc6e-2110-59acd2b66501 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -373,7 +377,7 @@ Why we use bad codes to make good codes?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect17))
+({{% resource_link e147a348-003e-0025-04bf-b08299a7a29a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
