@@ -5,6 +5,7 @@ description: 'Instructions and guidelines for Small Project 2. In this project, 
 
   parity ?check codes presented in the lecture.'
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/4aeda865e05e62465d79225510a2efa7_sm2.pdf
+file_size: 52918
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -6,6 +6,7 @@ description: 'Instructions and guidelines for Small Project 1. In this project,w
   repetition encoder with the Binary Symmetric Channel with crossover probability
   p (BSC p ).'
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/809177282a6a966172b1b2535dcfee07_sm1.pdf
+file_size: 84989
 file_type: application/pdf
 learning_resource_types:
 - Projects
