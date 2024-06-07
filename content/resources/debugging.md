@@ -2,6 +2,7 @@
 content_type: resource
 description: This tutorial contains tips on debugging MATLAB code.
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/3b4bd7e53323eb662fe5455f71f4457a_debugging.pdf
+file_size: 82281
 file_type: application/pdf
 learning_resource_types:
 - Tools
