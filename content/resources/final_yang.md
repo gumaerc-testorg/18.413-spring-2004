@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample of a student's final project. This final project report courtesy
   of Yang Yang.
-file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/8897d87c424dcebc1594691961c6d62d_final_yang.pdf
+file: /ol-ocw-studio-app/courses/18-413-error-correcting-codes-laboratory-spring-2004/8897d87c424dcebc1594691961c6d62d_final_yang.pdf
 file_size: 120197
 file_type: application/pdf
 learning_resource_types:
