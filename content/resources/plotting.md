@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This tutorial contains tips on plotting data.
-file: /ol-ocw-studio-app/courses/18-413-error-correcting-codes-laboratory-spring-2004/26d9d6cff3e0c9a750fa3249275b5a28_plotting.pdf
+file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/26d9d6cff3e0c9a750fa3249275b5a28_plotting.pdf
 file_size: 103908
 file_type: application/pdf
 learning_resource_types:
