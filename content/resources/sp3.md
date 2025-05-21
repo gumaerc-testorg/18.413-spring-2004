@@ -4,7 +4,7 @@ description: 'Instructions and guidelines for Small Project 3. In this project,y
   are going to implement and test a simple convolutional code.This project
 
   has two parts: (1) Implementation; (2) Generating data.'
-file: /ol-ocw-studio-app/courses/18-413-error-correcting-codes-laboratory-spring-2004/0088de9215ecbff82bb4af9959698a7d_sp3.pdf
+file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/0088de9215ecbff82bb4af9959698a7d_sp3.pdf
 file_size: 64999
 file_type: application/pdf
 learning_resource_types:
