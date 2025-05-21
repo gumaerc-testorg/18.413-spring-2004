@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This tutorial contains information on working with GF(2) matrices.
-file: /ol-ocw-studio-app/courses/18-413-error-correcting-codes-laboratory-spring-2004/de267030200c99e30b6f7b2688cb616e_gf2.pdf
+file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/de267030200c99e30b6f7b2688cb616e_gf2.pdf
 file_size: 127216
 file_type: application/pdf
 learning_resource_types:

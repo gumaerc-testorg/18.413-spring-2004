@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This tutorial contains information on moving data to MATLAB.
-file: /ol-ocw-studio-app/courses/18-413-error-correcting-codes-laboratory-spring-2004/325d41fcaabe4cdb887db3e8310a8ffc_tomatlab.pdf
+file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/325d41fcaabe4cdb887db3e8310a8ffc_tomatlab.pdf
 file_size: 75935
 file_type: application/pdf
 learning_resource_types:
