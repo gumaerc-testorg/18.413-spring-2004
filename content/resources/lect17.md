@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of Lecture 17.
-file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/e147a348003e002504bfb08299a7a29a_lect17.pdf
+file: /ol-ocw-studio-app/courses/18-413-error-correcting-codes-laboratory-spring-2004/e147a348003e002504bfb08299a7a29a_lect17.pdf
 file_size: 113672
 file_type: application/pdf
 learning_resource_types:

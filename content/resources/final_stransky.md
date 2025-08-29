@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample of a student's final project. This final project report courtesy
   of Scott Stransky.
-file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/931a6b19b4dfbd332ed40176a47ccac5_final_stransky.pdf
+file: /ol-ocw-studio-app/courses/18-413-error-correcting-codes-laboratory-spring-2004/931a6b19b4dfbd332ed40176a47ccac5_final_stransky.pdf
 file_size: 229086
 file_type: application/pdf
 learning_resource_types:

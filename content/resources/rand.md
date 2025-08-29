@@ -2,7 +2,7 @@
 content_type: resource
 description: This tutorial contains information on How to generate random numbers
   in MATLAB?, Java? and C.
-file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/dcb277587f8648439f764faacffaa6fb_rand.pdf
+file: /ol-ocw-studio-app/courses/18-413-error-correcting-codes-laboratory-spring-2004/dcb277587f8648439f764faacffaa6fb_rand.pdf
 file_size: 111843
 file_type: application/pdf
 learning_resource_types:
