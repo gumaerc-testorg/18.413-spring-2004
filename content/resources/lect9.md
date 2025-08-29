@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of Lecture 9.
-file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/2eb3152fd9bef9307e97d393de620d1b_lect9.pdf
+file: /ol-ocw-studio-app/courses/18-413-error-correcting-codes-laboratory-spring-2004/2eb3152fd9bef9307e97d393de620d1b_lect9.pdf
 file_size: 84485
 file_type: application/pdf
 learning_resource_types:
