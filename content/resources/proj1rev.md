@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for the revision of Project 1.
-file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/04937c55733d3109cb9cb55031e035e1_proj1rev.pdf
+file: /ol-ocw-studio-app/courses/18-413-error-correcting-codes-laboratory-spring-2004/04937c55733d3109cb9cb55031e035e1_proj1rev.pdf
 file_size: 33064
 file_type: application/pdf
 learning_resource_types:
